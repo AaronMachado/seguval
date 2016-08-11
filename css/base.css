@@ -2,3 +2,40 @@
 	width: 250px;
 	height: 171px;
 }
+.hx-blue {
+	color: #7270FE;
+}
+#portfolio-filter li.active > a, #portfolio-filter.bordered li.active > a {
+	border-color: #7270FE !important;
+}
+
+#portfolio-filter li.active > a, #portfolio-filter.bordered li.active > a {
+	color: #7270FE !important;
+}
+blockquote:after, .callout:after, .title-bg-line.custom:after, .title-underblock.custom:after {
+	background-color: #7270FE!important;
+	top: 30px;
+}
+
+.title-underblock:after {
+	top: 45px !important;
+}
+input[placeholder], [placeholder], *[placeholder] {
+	color: #7270FE !important;
+}
+*::-webkit-input-placeholder {
+    /* Google Chrome y Safari */
+	color: #7270FE !important;
+}
+*::-moz-placeholder {
+    /* Firefox 19 y superior */
+	color: #7270FE !important;
+}
+*:-moz-placeholder {
+	color: #7270FE !important;
+    /* Firefox anterior a 19 */
+}
+*:-ms-input-placeholder {
+    /* Internet Explorer 10 y superior */
+	color: #7270FE !important;
+}
