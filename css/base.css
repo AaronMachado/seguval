@@ -55,6 +55,7 @@ input[placeholder], [placeholder], *[placeholder] {
 		width: 50%;
 		height: 50%;
 		margin: auto;
+		padding: 0;
 	}
 }
 
