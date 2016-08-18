@@ -1,4 +1,6 @@
-
+p {
+	10px;
+}
 ::selection {
     background-color: #0060AC !important;
 }
@@ -71,4 +73,5 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 #portfolio-item-container {
 	width: 100%;
+	margin: auto !important;
 }
