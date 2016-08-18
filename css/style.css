@@ -482,9 +482,12 @@ h6 .small,
 	color:inherit;
 }
 
-ul,ol {
+ul {
 	list-style-type:none;
 	padding:0;
+	margin:0;
+}
+ol {
 	margin:0;
 }
 
