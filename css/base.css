@@ -64,7 +64,8 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 
 #text-numero {
-	font-size: 30px;
+	margin-top: -20px;
+	font-size: 20px;
 	font-style: bold;
 }
 .no-margin-cinta {
