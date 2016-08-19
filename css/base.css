@@ -79,5 +79,15 @@ input[placeholder], [placeholder], *[placeholder] {
 	margin: auto !important;
 }
 .comillas-text {
-	font: 400 60px/1.6 'Baskerville Old Face BQ';
+	font-family: 'Baskerville Old Face BQ';
+	font-size: 120px;
+	font-weight: normal;
+	line-height: 1;
+}
+#frase-msj {
+	font-size: 22px;
+}
+#frase-msj b {
+	color: #181818;
+	font-size: 23px;
 }
