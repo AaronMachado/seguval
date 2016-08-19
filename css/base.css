@@ -1,3 +1,4 @@
+
 p {
 	10px;
 }
@@ -76,4 +77,7 @@ input[placeholder], [placeholder], *[placeholder] {
 #portfolio-item-container {
 	width: 100%;
 	margin: auto !important;
+}
+.comillas-text {
+	font: 400 60px/1.6 'Baskerville Old Face BQ';
 }
