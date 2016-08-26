@@ -63,6 +63,7 @@ input[placeholder], [placeholder], *[placeholder] {
 #logo-mini-seguval {
 	width: 45px;
 	height: 45px;
+	margin-top: -12px;
 }
 
 #text-numero {
