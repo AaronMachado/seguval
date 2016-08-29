@@ -81,9 +81,10 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 .comillas-text {
 	font-family: 'Passion One', cursive;
-	font-size: 120px;
+	font-size: 180px;
 	font-weight: normal;
 	line-height: 1;
+	margin-bottom: -70px;
 }
 #frase-msj {
 	font-size: 22px;
