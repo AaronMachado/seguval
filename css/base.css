@@ -1,0 +1,94 @@
+
+p {
+	10px;
+}
+::selection {
+    background-color: #0060AC !important;
+}
+
+::-moz-selection {
+	background-color: #0060AC !important;
+}
+.img-logo-dim {
+	width: 250px;
+	height: 171px;
+}
+.hx-blue {
+	color: #0060AC;
+}
+#portfolio-filter li.active > a, #portfolio-filter.bordered li.active > a {
+	border-color: #0060AC !important;
+}
+
+#portfolio-filter li.active > a, #portfolio-filter.bordered li.active > a {
+	color: #0060AC !important;
+}
+blockquote:after, .callout:after, .title-bg-line.custom:after, .title-underblock.custom:after {
+	background-color: #0060AC!important;
+	top: 30px;
+}
+
+.title-underblock:after {
+	top: 45px !important;
+}
+input[placeholder], [placeholder], *[placeholder] {
+	color: #0060AC !important;
+}
+*::-webkit-input-placeholder {
+    /* Google Chrome y Safari */
+	color: #0060AC !important;
+}
+*::-moz-placeholder {
+    /* Firefox 19 y superior */
+	color: #0060AC !important;
+}
+*:-moz-placeholder {
+	color: #0060AC !important;
+    /* Firefox anterior a 19 */
+}
+*:-ms-input-placeholder {
+    /* Internet Explorer 10 y superior */
+	color: #0060AC !important;
+}
+
+@media (max-width: 3840px){
+	#header-logo {
+		width: 50%;
+		height: 50%;
+		margin: auto;
+		padding: 0;
+	}
+}
+
+#logo-mini-seguval {
+	width: 45px;
+	height: 45px;
+}
+
+#text-numero {
+	margin-top: -20px;
+	font-size: 20px;
+	font-style: bold;
+}
+.no-margin-cinta {
+	padding: 0;
+	margin: 0;
+}
+#portfolio-item-container {
+	width: 100%;
+	margin: auto !important;
+}
+.comillas-text {
+	font-family: 'Passion One', cursive;
+	font-size: 180px;
+	font-weight: normal;
+	line-height: 1;
+	margin-bottom: -70px;
+}
+#frase-msj {
+	font-size: 22px;
+}
+#frase-msj b {
+	color: #181818;
+	font-size: 23px;
+}
